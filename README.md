@@ -1,6 +1,8 @@
 # LevPy
 > Text-based games made easy!
 
+[![stable version badge](https://img.shields.io/badge/Stable-v.2.1-brightgreen)](https://github.com/flancast90/Finniky-on-Node/releases/latest)[![repo size badge](https://img.shields.io/badge/size-2.276kb-informational)]
+
 # About 
 LevPy is a simple python file/function that allows the creation of text-based games easily through JSON data. For example, in ```main.py```, you could include the following "level": 
 ```python
